@@ -11,11 +11,11 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 1.42,0.55,0.27,25.76,76.25,1.96,29.27,1.47,51.92,0.6,3.17,0.22,3.38,39.74,Dries Mertens,dries-mertens,Galatasaray,
 0.18,0.09,0.69,11.53,74.12,0.0,0.0,0.55,66.67,0.18,1.1,1.92,3.02,46.15,Mauro Icardi,mauro-icardi,Galatasaray,
 1.37,1.02,0.3,29.86,79.37,1.07,29.51,1.61,57.45,1.31,4.6,1.13,5.73,50.0,İrfan Can Kahveci,irfan-can-kahveci,Fenerbahçe,
-2.24,1.6,2.02,28.71,75.65,2.21,35.8,2.55,47.52,0.72,3.54,0.8,4.33,64.04,Guilherme Haubert Sityá,guilherme-haubert-sitya,Konyaspor,
+2.24,1.6,2.02,28.78,75.7,2.17,35.19,2.59,47.89,0.72,3.54,0.8,4.33,64.04,Guilherme Haubert Sityá,guilherme-haubert-sitya,Konyaspor,
 1.15,0.45,0.06,19.96,79.59,1.66,28.26,2.62,71.93,2.37,4.48,0.13,4.61,51.06,Yusuf Sarı,yusuf-sari,Adana Demirspor,
 0.5,0.25,0.0,33.67,82.39,0.38,18.75,2.82,66.18,1.88,4.76,0.5,5.26,58.33,Samu Sáiz,samu-saiz,Sivasspor,
 0.87,0.06,0.87,12.77,63.86,0.12,33.33,0.44,50.0,1.81,4.73,2.37,7.1,51.35,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
-1.18,0.34,0.88,17.25,71.9,0.23,26.09,0.46,46.15,0.61,2.74,2.21,4.95,42.07,Mame Thiam,mame-thiam,Pendikspor,
+1.18,0.38,0.88,17.25,71.9,0.23,26.09,0.46,46.15,0.61,2.74,2.21,4.95,42.07,Mame Thiam,mame-thiam,Pendikspor,
 0.48,0.05,1.28,14.56,73.85,0.0,0.0,0.69,68.42,0.58,3.93,2.66,6.59,44.6,Rey Manaj,rey-manaj,Sivasspor,
 1.24,1.36,2.72,49.27,83.91,0.28,33.33,3.68,47.45,0.62,2.77,3.85,6.62,62.57,Abdülkerim Bardakcı,abdulkerim-bardakci,Galatasaray,
 0.98,0.36,0.27,13.23,71.84,0.09,16.67,0.45,50.0,2.06,4.56,1.07,5.63,40.13,Semih Kılıçsoy,semih-kilicsoy,Beşiktaş,
@@ -70,7 +70,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 2.04,1.75,2.18,36.47,80.26,0.92,18.63,1.75,37.5,0.34,2.72,0.68,3.39,49.3,Güray Vural,guray-vural,,Antalyaspor
 1.79,1.89,1.39,36.64,81.24,0.4,16.67,1.59,50.0,0.6,3.38,0.8,4.18,47.19,Mert Müldür,mert-muldur,,Fenerbahçe
 1.47,1.68,4.74,32.74,77.56,0.0,0.0,3.47,38.15,0.21,1.79,2.11,3.89,61.67,Kenneth Omeruo,kenneth-omeruo,,Kasımpaşa
-1.07,0.69,2.01,53.54,87.31,0.0,0.0,3.01,60.0,0.19,1.57,3.89,5.46,66.41,Steven​ N'Zonzi,steven-nzonzi,,Konyaspor
+1.07,0.69,2.01,53.6,87.32,0.0,0.0,3.01,60.0,0.19,1.57,3.89,5.46,66.41,Steven​ N'Zonzi,steven-nzonzi,,Konyaspor
 1.98,1.12,3.53,50.61,87.28,0.27,62.5,2.46,42.99,0.27,3.31,2.46,5.77,64.67,Necip Uysal,necip-uysal,,Beşiktaş
 1.56,0.37,0.28,14.8,77.4,1.29,32.56,0.55,66.67,1.93,4.96,0.28,5.24,51.82,Modou Barrow,modou-barrow,,Sivasspor
 1.85,1.19,3.89,47.8,87.14,0.0,0.0,4.09,59.05,0.26,2.77,1.12,3.89,54.13,Ibrahim Drešević,ibrahim-dresevic,,Fatih Karagümrük
@@ -90,7 +90,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 1.36,0.78,0.99,27.59,73.09,0.53,18.06,1.48,39.13,1.19,3.62,1.73,5.34,53.94,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
 2.18,1.35,2.03,35.64,81.45,0.83,38.1,1.92,50.0,0.68,3.9,0.78,4.68,55.9,Bünyamin Balcı,bunyamin-balci,,Antalyaspor
 2.04,1.59,4.41,47.27,83.6,0.04,50.0,3.55,40.65,0.16,2.98,2.25,5.23,56.89,Veysel Sarı,veysel-sari,,Antalyaspor
-1.97,1.65,4.18,30.52,80.12,0.0,0.0,2.25,37.98,0.18,2.89,1.84,4.73,59.2,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
+1.97,1.65,4.18,30.47,80.1,0.0,0.0,2.2,37.5,0.18,2.89,1.84,4.73,59.54,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
 1.16,0.68,1.35,29.19,79.06,2.51,26.26,1.64,42.5,0.29,2.03,2.13,4.16,58.11,Faouzi Ghoulam,faouzi-ghoulam,,Hatayspor
 2.25,1.8,1.02,26.3,78.48,0.61,19.74,1.31,43.84,1.35,5.86,0.57,6.43,57.51,Mustafa Eskihellaç,mustafa-eskihellac,,Gaziantep FK
 0.9,0.12,0.2,20.61,86.57,0.16,18.18,0.12,30.0,2.09,3.56,0.74,4.3,45.65,Oluwafisayo Dele-Bashiru,dele-bashiru-oluwafisayo,,Hatayspor
@@ -235,7 +235,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 2.0,0.54,2.07,37.17,84.32,0.0,0.0,1.69,50.0,0.46,3.69,2.0,5.68,54.81,Leroy Fer,leroy-fer,Alanyaspor,
 0.77,1.78,4.88,43.45,86.71,0.0,0.0,2.63,47.89,0.39,1.55,2.32,3.87,51.55,Arif Kocaman,kocaman-arif,Kayserispor,
 0.31,0.19,0.74,10.93,69.41,0.0,0.0,0.56,69.23,0.8,2.16,1.67,3.83,32.8,Ali Sowe,ali-sowe,MKE Ankaragücü,
-1.23,1.11,1.11,31.58,82.09,0.0,0.0,2.49,53.28,0.34,3.1,0.77,3.87,50.75,Soner Dikmen,soner-dikmen,Konyaspor,
+1.23,1.11,1.11,31.58,82.09,0.0,0.0,2.49,53.28,0.34,3.1,0.73,3.83,50.51,Soner Dikmen,soner-dikmen,Konyaspor,
 0.97,0.58,4.02,46.19,88.99,0.0,0.0,3.1,56.64,0.1,1.4,1.16,2.57,47.32,Joseph Attamah,joseph-attamah,Kayserispor,
 2.14,0.74,0.74,19.97,72.39,0.3,20.0,1.04,70.0,0.96,3.99,1.92,5.92,47.06,Sander van de Streek,sander-van-de-streek,Antalyaspor,
 1.27,0.35,0.93,12.86,58.12,0.12,50.0,0.23,40.0,0.58,3.01,6.83,9.85,45.21,Ercan Kara,ercan-kara,Yılport Samsunspor,
@@ -256,7 +256,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 1.47,0.86,4.05,40.52,87.07,0.0,0.0,2.09,44.74,0.37,2.21,0.98,3.19,48.15,Mert Çetin,mert-cetin,MKE Ankaragücü,
 2.53,1.06,2.24,27.16,76.38,0.65,26.23,1.92,44.34,1.1,4.2,1.39,5.59,42.95,Gökhan Sazdağı,gokhan-sazdagi,Kayserispor,
 2.16,0.58,2.49,24.85,81.92,0.5,16.67,1.33,57.14,0.42,3.16,0.58,3.74,47.37,Halil Ibrahim Pehlivan,halil-ibrahim-pehlivan,Çaykur Rizespor,
-1.74,1.36,1.29,28.44,77.53,0.3,28.57,1.74,53.49,0.0,4.39,1.82,6.2,53.59,Oğulcan Ülgün,ogulcan-ulgun,Konyaspor,
+1.74,1.36,1.21,28.44,77.69,0.3,28.57,1.74,53.49,0.0,4.39,1.74,6.13,53.29,Oğulcan Ülgün,ogulcan-ulgun,Konyaspor,
 1.27,0.35,0.57,19.29,79.36,0.0,0.0,0.85,66.67,1.06,3.89,0.99,4.87,38.76,Emir Kaan Gültekin,emir-kaan-gultekin,İstanbulspor,
 1.58,1.38,5.12,48.42,85.2,0.0,0.0,4.07,44.6,0.0,1.97,1.84,3.81,55.77,Furkan Bayır,furkan-bayir,Alanyaspor,
 0.81,0.44,0.52,19.24,81.5,0.3,14.29,0.67,64.29,2.0,4.66,1.26,5.92,41.45,Babajide David Akintola,babajide-david-akintola,,Çaykur Rizespor

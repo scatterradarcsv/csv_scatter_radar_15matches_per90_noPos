@@ -11,7 +11,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.57,0.4,2.36,0.95,24.19,0.61,47.06,0.19,1.1,5.56,2.74,2.21,42.07,0.95,Mame Thiam,mame-thiam,Pendikspor,
 0.56,0.49,4.14,2.07,13.64,1.51,66.67,0.0,0.19,6.4,3.95,2.26,47.14,1.88,Stéphane Bahoken,stephane-bahoken,Kayserispor,
 0.56,0.33,2.43,0.93,23.08,1.81,58.0,0.19,0.93,5.36,4.73,2.37,51.35,2.12,Nuno Da Costa,nuno-da-costa,Kasımpaşa,
-0.56,0.36,3.57,1.35,15.56,1.67,39.62,0.56,1.91,12.79,5.24,0.32,43.75,2.3,Mahmoud Trézéguet,mahmoud-trezeguet,Trabzonspor,
+0.56,0.39,3.65,1.35,15.22,1.67,39.62,0.56,1.91,12.79,5.24,0.32,43.75,2.3,Mahmoud Trézéguet,mahmoud-trezeguet,Trabzonspor,
 0.55,0.5,3.36,1.53,16.46,0.55,41.94,0.13,0.51,4.47,2.43,2.68,44.94,1.45,Krzysztof Piątek,krzysztof-piatek,Başakşehir FK,
 0.54,0.51,2.67,0.89,20.37,1.04,47.73,0.25,1.14,5.4,2.92,1.54,32.37,1.04,Sokol Cikalleshi,sokol-cikalleshi,Konyaspor,
 0.54,0.2,1.85,1.07,29.03,1.31,47.83,0.36,2.15,13.97,4.6,1.13,50.0,2.09,İrfan Can Kahveci,irfan-can-kahveci,Fenerbahçe,
@@ -233,7 +233,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.0,0.04,0.85,0.17,0.0,1.27,57.69,0.0,0.93,9.74,5.84,0.51,56.39,2.46,Édouard Michut,edouard-michut,,Adana Demirspor
 0.0,0.02,0.63,0.0,0.0,0.77,50.0,0.0,0.42,5.18,5.88,1.96,66.27,1.75,Mehmet Aydın,mehmet-aydin,,Trabzonspor
 0.0,0.32,3.07,1.19,0.0,1.88,53.66,0.43,2.3,13.98,4.09,0.68,41.48,1.53,Tetê,tete,,Galatasaray
-0.0,0.04,0.62,0.12,0.0,0.78,44.44,0.0,0.78,6.51,4.09,1.36,57.14,1.4,Eren Elmalı,eren-elmali,,Trabzonspor
+0.0,0.05,0.62,0.12,0.0,0.78,44.44,0.0,0.78,6.51,4.09,1.36,57.14,1.4,Eren Elmalı,eren-elmali,,Trabzonspor
 0.0,0.02,0.33,0.07,0.0,0.07,100.0,0.0,0.13,2.23,1.64,2.23,60.82,0.39,Alim Öztürk,alim-ozturk,,Yılport Samsunspor
 0.0,0.02,0.28,0.06,0.0,1.08,59.38,0.11,0.51,7.02,4.13,1.3,55.81,1.13,Jayden Oosterwolde,jayden-oosterwolde,,Fenerbahçe
 0.0,0.04,0.78,0.26,0.0,0.65,32.26,0.0,1.5,10.73,4.55,0.52,49.06,2.47,Flavien Tait,flavien-tait,,Yılport Samsunspor

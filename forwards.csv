@@ -191,7 +191,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.05,0.11,1.02,0.31,5.0,1.02,66.67,0.1,0.51,7.11,3.43,0.87,44.92,0.51,Ali Kaan Güneren,ali-kaan-guneren,,MKE Ankaragücü
 0.05,0.02,0.2,0.1,25.0,0.41,30.77,0.05,0.56,7.7,2.04,0.77,42.64,0.77,Demeaco Duhaney,duhaney-demeaco,,İstanbulspor
 0.05,0.01,0.3,0.15,16.67,0.1,50.0,0.0,0.35,5.89,2.72,1.06,40.11,0.5,Modestas Vorobjovas,modestas-vorobjovas,,İstanbulspor
-0.05,0.02,0.59,0.2,8.33,0.3,46.15,0.2,1.24,9.36,3.22,1.68,56.25,0.69,Zeki Yavru,zeki-yavru,,Yılport Samsunspor
+0.05,0.02,0.59,0.2,8.33,0.3,46.15,0.2,1.24,9.31,3.22,1.68,56.25,0.69,Zeki Yavru,zeki-yavru,,Yılport Samsunspor
 0.05,0.01,0.35,0.1,14.29,0.59,54.55,0.25,0.84,8.02,5.54,1.63,59.92,2.33,Ahmet Oğuz,ahmet-oguz,,Konyaspor
 0.05,0.19,1.77,0.69,2.78,1.72,44.87,0.25,1.13,9.13,4.96,0.74,40.28,1.72,Jackson,jackson,,İstanbulspor
 0.05,0.03,0.29,0.1,16.67,0.68,70.0,0.19,1.11,6.42,4.1,0.77,56.11,1.16,Bünyamin Balcı,bunyamin-balci,,Antalyaspor
@@ -251,11 +251,11 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.0,0.02,0.23,0.06,0.0,0.12,33.33,0.06,0.29,3.23,1.82,1.29,53.54,0.53,Ömer Toprak,omer-toprak,Antalyaspor,
 0.0,0.03,0.63,0.0,0.0,0.77,50.0,0.0,0.42,5.18,5.88,1.96,66.27,1.75,Mehmet Aydın,mehmet-aydin,Trabzonspor,
 0.0,0.04,0.57,0.1,0.0,0.67,40.82,0.0,0.74,6.68,3.91,1.28,56.62,1.32,Eren Elmalı,eren-elmali,Trabzonspor,
+0.0,0.04,0.78,0.24,0.0,0.6,32.26,0.06,1.68,10.89,4.31,0.6,47.67,2.39,Flavien Tait,flavien-tait,Yılport Samsunspor,
 0.0,0.05,0.41,0.1,0.0,0.14,80.0,0.0,0.21,3.27,2.27,1.45,57.14,1.17,Fidan Aliti,fidan-aliti,Alanyaspor,
 0.0,0.02,0.43,0.11,0.0,0.32,64.29,0.0,0.04,2.79,2.36,1.57,59.46,0.72,Mehmet Yeşil,mehmet-yesil,İstanbulspor,
 0.0,0.03,0.59,0.0,0.0,1.07,55.56,0.0,0.85,8.87,5.29,0.69,58.33,1.44,Stelios Kitsiou,stelios-kitsiou,MKE Ankaragücü,
 0.0,0.31,2.99,1.16,0.0,1.83,53.66,0.42,2.25,13.81,4.08,0.67,41.61,1.5,Tetê,tete,Galatasaray,
-0.0,0.04,0.78,0.24,0.0,0.6,32.26,0.0,1.68,10.89,4.31,0.6,47.67,2.39,Flavien Tait,flavien-tait,Yılport Samsunspor,
 0.0,0.03,0.32,0.0,0.0,1.01,62.5,0.2,0.73,7.3,3.26,0.77,53.76,0.48,Muhammet Taha Şahin,muhammet-taha-sahin,Çaykur Rizespor,
 0.0,0.14,2.54,0.54,0.0,1.88,41.18,0.27,0.8,6.83,6.29,2.54,52.8,1.61,Oğulcan Çağlayan,ogulcan-caglayan,Kasımpaşa,
 0.0,0.01,0.33,0.1,0.0,0.57,48.57,0.23,0.8,6.79,3.21,0.33,52.22,0.54,Uğur Çiftçi,ugur-ciftci,Sivasspor,

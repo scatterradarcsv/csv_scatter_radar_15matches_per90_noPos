@@ -15,7 +15,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.52,0.43,2.84,1.81,18.18,1.21,53.85,0.26,1.29,8.36,4.31,2.93,53.5,2.33,Bengali-Fodé Koita,bengali-fode-koita,Sivasspor,
 0.51,0.46,3.32,1.42,15.38,0.58,44.44,0.18,0.58,4.67,2.34,2.7,43.53,1.31,Krzysztof Piątek,krzysztof-piatek,Başakşehir FK,
 0.5,0.47,2.47,0.82,20.37,0.91,45.45,0.23,1.1,5.3,2.83,1.83,33.89,1.05,Sokol Cikalleshi,sokol-cikalleshi,Konyaspor,
-0.5,0.36,2.4,0.93,20.78,0.56,46.15,0.22,1.06,6.19,2.77,2.55,44.07,0.87,Mame Thiam,mame-thiam,Pendikspor,
+0.5,0.36,2.4,0.93,20.78,0.56,46.15,0.22,1.06,6.19,2.77,2.55,44.19,0.87,Mame Thiam,mame-thiam,Pendikspor,
 0.48,0.55,3.25,1.34,14.71,0.29,37.5,0.19,0.67,6.41,2.77,1.15,44.57,2.2,Serdar Dursun,serdar-dursun,Fenerbahçe,
 0.47,0.38,2.95,1.22,16.09,0.85,45.45,0.07,0.58,4.17,3.42,3.12,43.67,2.17,Adam Buksa,adam-buksa,Antalyaspor,
 0.47,0.39,2.7,1.28,17.5,0.81,57.14,0.14,0.54,3.71,2.23,1.69,40.0,0.95,Adolfo Gaich,adolfo-gaich,Çaykur Rizespor,
@@ -86,7 +86,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.2,0.09,1.02,0.43,19.35,1.02,63.27,0.13,1.32,9.3,3.2,1.71,52.1,0.96,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
 0.19,0.19,2.46,0.87,7.84,1.01,44.68,0.34,1.88,8.79,3.53,0.34,44.94,1.35,Milot Rashica,milot-rashica,,Beşiktaş
 0.19,0.28,2.3,0.77,8.33,1.34,43.75,0.0,0.77,6.91,5.18,2.69,38.68,1.73,Brayan Riascos,brayan-riascos,,Gaziantep FK
-0.19,0.3,1.96,0.65,9.52,1.21,50.0,0.0,0.84,9.43,3.27,0.65,40.78,1.03,Abdoulay Diaby,abdoulay-diaby,,Pendikspor
+0.19,0.3,1.96,0.65,9.52,1.21,50.0,0.0,0.84,9.34,3.27,0.65,40.78,1.03,Abdoulay Diaby,abdoulay-diaby,,Pendikspor
 0.19,0.15,1.56,0.52,11.9,0.97,44.07,0.22,0.85,6.35,3.56,0.67,43.68,1.56,Yusuf Erdoğan,yusuf-erdogan,,Adana Demirspor
 0.19,0.13,1.15,0.44,16.13,0.93,51.02,0.41,1.07,6.59,3.18,1.41,47.69,0.52,Rigoberto Rivas,rigoberto-rivas,,Hatayspor
 0.18,0.12,1.25,0.32,14.81,0.51,61.11,0.05,0.37,6.32,2.35,3.69,61.21,0.78,Abdülkerim Bardakcı,abdulkerim-bardakci,,Galatasaray
